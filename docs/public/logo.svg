@@ -1,0 +1,27 @@
+<svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="BanLson 知识库标志">
+  <rect x="8" y="8" width="224" height="224" rx="56" fill="#F7F3E9"/>
+  <rect x="8.75" y="8.75" width="222.5" height="222.5" rx="55.25" stroke="#2F6F5E" stroke-opacity="0.14" stroke-width="1.5"/>
+
+  <path d="M120 118V170" stroke="#2F6F5E" stroke-width="3" stroke-linecap="round" stroke-opacity="0.45"/>
+  <path d="M120 120L89 96M120 120L151 96M120 120V72" stroke="#2F6F5E" stroke-width="2.6" stroke-linecap="round" stroke-opacity="0.38"/>
+
+  <circle cx="120" cy="70" r="10" fill="#2F6F5E"/>
+  <circle cx="88" cy="95" r="12" fill="#8FD6BD"/>
+  <circle cx="152" cy="94" r="8.5" fill="#D9A441"/>
+
+  <circle cx="177" cy="62" r="3.2" fill="#D9A441"/>
+  <circle cx="64" cy="68" r="2.2" fill="#2F6F5E" fill-opacity="0.45"/>
+
+  <path d="M42 163C74 151 104 155 120 169V199C102 185 74 181 42 193V163Z" fill="#2F6F5E"/>
+  <path d="M198 163C166 151 136 155 120 169V199C138 185 166 181 198 193V163Z" fill="#2F6F5E"/>
+
+  <path d="M53 166C78 157 101 162 113 172V188C97 178 76 174 53 182V166Z" fill="#FDFCF9" fill-opacity="0.96"/>
+  <path d="M187 166C162 157 139 162 127 172V188C143 178 164 174 187 182V166Z" fill="#FDFCF9" fill-opacity="0.96"/>
+
+  <path d="M63 170C82 164 99 168 108 175" stroke="#2F6F5E" stroke-width="2.4" stroke-linecap="round" stroke-opacity="0.35"/>
+  <path d="M63 177C82 171 99 175 108 182" stroke="#2F6F5E" stroke-width="2.4" stroke-linecap="round" stroke-opacity="0.22"/>
+  <path d="M177 170C158 164 141 168 132 175" stroke="#2F6F5E" stroke-width="2.4" stroke-linecap="round" stroke-opacity="0.35"/>
+  <path d="M177 177C158 171 141 175 132 182" stroke="#2F6F5E" stroke-width="2.4" stroke-linecap="round" stroke-opacity="0.22"/>
+
+  <path d="M120 171V194" stroke="#D9A441" stroke-width="2.6" stroke-linecap="round" stroke-opacity="0.8"/>
+</svg>

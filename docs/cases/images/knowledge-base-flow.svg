@@ -1,0 +1,72 @@
+<svg width="900" height="380" viewBox="0 0 900 380" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="flowTitle flowDesc">
+  <title id="flowTitle">文档型知识库搭建流程</title>
+  <desc id="flowDesc">从目标与边界、信息架构、写作规范、构建与部署到维护与迭代的五个阶段。</desc>
+
+  <rect width="900" height="380" rx="20" fill="#F7F3E9"/>
+
+  <text x="45" y="58" fill="#24594B" font-family="'Noto Sans SC','Microsoft YaHei',sans-serif" font-size="22" font-weight="700">从目标到可持续维护</text>
+  <text x="45" y="86" fill="#5C6B65" font-family="'Noto Sans SC','Microsoft YaHei',sans-serif" font-size="13">一条通用的文档型知识库搭建路径</text>
+
+  <g font-family="'Noto Sans SC','Microsoft YaHei',sans-serif">
+    <!-- 01 -->
+    <rect x="45" y="120" width="140" height="118" rx="14" fill="#FFFFFF" stroke="#D9D2C2"/>
+    <circle cx="70" cy="146" r="14" fill="#2F6F5E"/>
+    <text x="70" y="151" text-anchor="middle" fill="#FFFFFF" font-size="12" font-weight="700">01</text>
+    <text x="112" y="151" fill="#24594B" font-size="15" font-weight="700">目标与边界</text>
+    <text x="62" y="182" fill="#5C6B65" font-size="12">写给谁看</text>
+    <text x="62" y="202" fill="#5C6B65" font-size="12">解决什么问题</text>
+    <text x="62" y="222" fill="#5C6B65" font-size="12">哪些内容不收录</text>
+
+    <!-- 02 -->
+    <rect x="215" y="120" width="140" height="118" rx="14" fill="#FFFFFF" stroke="#D9D2C2"/>
+    <circle cx="240" cy="146" r="14" fill="#3C846F"/>
+    <text x="240" y="151" text-anchor="middle" fill="#FFFFFF" font-size="12" font-weight="700">02</text>
+    <text x="282" y="151" fill="#24594B" font-size="15" font-weight="700">信息架构</text>
+    <text x="232" y="182" fill="#5C6B65" font-size="12">分类与层级</text>
+    <text x="232" y="202" fill="#5C6B65" font-size="12">命名与链接</text>
+    <text x="232" y="222" fill="#5C6B65" font-size="12">导航与搜索</text>
+
+    <!-- 03 -->
+    <rect x="385" y="120" width="140" height="118" rx="14" fill="#FFFFFF" stroke="#D9D2C2"/>
+    <circle cx="410" cy="146" r="14" fill="#8FD6BD"/>
+    <text x="410" y="151" text-anchor="middle" fill="#24594B" font-size="12" font-weight="700">03</text>
+    <text x="452" y="151" fill="#24594B" font-size="15" font-weight="700">写作规范</text>
+    <text x="402" y="182" fill="#5C6B65" font-size="12">文章模板</text>
+    <text x="402" y="202" fill="#5C6B65" font-size="12">图片与引用</text>
+    <text x="402" y="222" fill="#5C6B65" font-size="12">示例标注</text>
+
+    <!-- 04 -->
+    <rect x="555" y="120" width="140" height="118" rx="14" fill="#FFFFFF" stroke="#D9D2C2"/>
+    <circle cx="580" cy="146" r="14" fill="#D9A441"/>
+    <text x="580" y="151" text-anchor="middle" fill="#FFFFFF" font-size="12" font-weight="700">04</text>
+    <text x="622" y="151" fill="#24594B" font-size="15" font-weight="700">构建与部署</text>
+    <text x="572" y="182" fill="#5C6B65" font-size="12">本地预览</text>
+    <text x="572" y="202" fill="#5C6B65" font-size="12">自动构建</text>
+    <text x="572" y="222" fill="#5C6B65" font-size="12">发布检查</text>
+
+    <!-- 05 -->
+    <rect x="725" y="120" width="130" height="118" rx="14" fill="#FFFFFF" stroke="#D9D2C2"/>
+    <circle cx="750" cy="146" r="14" fill="#24594B"/>
+    <text x="750" y="151" text-anchor="middle" fill="#FFFFFF" font-size="12" font-weight="700">05</text>
+    <text x="788" y="151" fill="#24594B" font-size="15" font-weight="700">维护迭代</text>
+    <text x="742" y="182" fill="#5C6B65" font-size="12">定期回看</text>
+    <text x="742" y="202" fill="#5C6B65" font-size="12">更新过期内容</text>
+    <text x="742" y="222" fill="#5C6B65" font-size="12">收集反馈</text>
+
+    <!-- arrows -->
+    <path d="M188 179H208" stroke="#B9AE99" stroke-width="2" stroke-linecap="round"/>
+    <path d="M203 174L209 179L203 184" stroke="#B9AE99" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M358 179H378" stroke="#B9AE99" stroke-width="2" stroke-linecap="round"/>
+    <path d="M373 174L379 179L373 184" stroke="#B9AE99" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M528 179H548" stroke="#B9AE99" stroke-width="2" stroke-linecap="round"/>
+    <path d="M543 174L549 179L543 184" stroke="#B9AE99" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M698 179H718" stroke="#B9AE99" stroke-width="2" stroke-linecap="round"/>
+    <path d="M713 174L719 179L713 184" stroke="#B9AE99" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <!-- bottom note -->
+    <rect x="45" y="278" width="810" height="58" rx="12" fill="#EFE9DC"/>
+    <circle cx="70" cy="307" r="6" fill="#2F6F5E"/>
+    <text x="88" y="312" fill="#4B5A54" font-size="13">每个阶段都应有明确产出；先让流程跑通，再逐步补充内容和样式。</text>
+    <text x="45" y="362" fill="#8A8170" font-size="11">BanLson 知识库 · 示例流程图</text>
+  </g>
+</svg>
