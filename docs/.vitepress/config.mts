@@ -76,8 +76,14 @@ export default defineConfig({
           items: [
             { text: '分类说明', link: '/notes/' },
             {
-              text: 'Pi（命令行 AI 编程 Agent）教程整理 · Windows 版',
-              link: '/notes/pi-agent-tutorial-windows'
+              text: 'AI学习',
+              link: '/notes/ai-learning/',
+              items: [
+                {
+                  text: '大模型应用开发（Agent）七步学习路线',
+                  link: '/notes/ai-learning/llm-agent-seven-step-roadmap'
+                }
+              ]
             },
             {
               text: '示例：用四步法整理主题笔记',
@@ -91,6 +97,10 @@ export default defineConfig({
           text: '工具使用',
           items: [
             { text: '分类说明', link: '/tools/' },
+            {
+              text: 'Pi（命令行 AI 编程 Agent）教程整理 · Windows 版',
+              link: '/tools/pi-agent-tutorial-windows'
+            },
             {
               text: '示例：启用本地全文搜索',
               link: '/tools/example-local-search'

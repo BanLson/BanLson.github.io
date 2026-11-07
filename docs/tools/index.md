@@ -3,11 +3,15 @@
 整理工具的安装、配置、操作步骤和常见问题。重点是「下次还能照着做」，因此步骤要完整，命令要可复制，坑点要写清楚。
 
 <div class="example-notice">
-  <strong>示例分类</strong>
+  <strong>关于示例</strong>
   <span>本分类目前收录 1 篇示例文章，用于展示工具类文章的写作与排版方式。</span>
 </div>
 
 ## 文章列表
+
+### [Pi（命令行 AI 编程 Agent）教程整理 · Windows 版](./pi-agent-tutorial-windows)
+
+依据视频语音转写的 Pi Windows 版教程整理，涵盖安装、模型配置、会话管理、插件与 Skills；第三方测试数据未独立核实。
 
 ### [示例：在 VitePress 中启用本地全文搜索](./example-local-search)
 

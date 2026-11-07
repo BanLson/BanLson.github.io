@@ -9,9 +9,11 @@
 
 ## 文章列表
 
-### [Pi（命令行 AI 编程 Agent）教程整理 · Windows 版](./pi-agent-tutorial-windows)
+### [AI学习](./ai-learning/)
 
-依据视频语音转写的 Pi Windows 版教程整理，涵盖安装、模型配置、会话管理、插件与 Skills；第三方测试数据未独立核实。
+人工智能、大模型与 Agent 应用开发的学习笔记。
+
+- [大模型应用开发（Agent）七步学习路线](./ai-learning/llm-agent-seven-step-roadmap)
 
 ### [示例：用四步法整理主题笔记](./example-study-note)
 
