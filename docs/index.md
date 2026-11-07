@@ -19,17 +19,14 @@ hero:
 features:
   - icon: 📚
     title: 学习笔记
-    details: 记录概念、方法与复盘，强调结构清晰、方便回看。
     link: /notes/
     linkText: 进入分类
   - icon: 🧰
     title: 工具使用
-    details: 整理工具配置、操作步骤与常见问题，减少重复摸索。
     link: /tools/
     linkText: 进入分类
   - icon: 🧭
     title: 实践案例
-    details: 用完整流程说明一件事如何从开始做到收尾。
     link: /cases/
     linkText: 进入分类
 ---
